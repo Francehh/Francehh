@@ -1,9 +1,9 @@
 <h1 align="center"> Hi 👋! Hi im France and I'm a Developer, from PH !</h1> 
 <h1 align="center">  </h1>  
-<h1 align="center">  </h1> 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Francehh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<h1 align="center">  </h1> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Francehh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Francehh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
