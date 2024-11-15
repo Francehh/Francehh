@@ -1,5 +1,4 @@
 <h1 align="center"> Hi 👋! Hi im France and I'm a Developer, from PH !</h1> 
-<h1 align="center">  </h1>  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Francehh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
